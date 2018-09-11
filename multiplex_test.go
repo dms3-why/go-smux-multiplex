@@ -3,7 +3,7 @@ package peerstream_multiplex
 import (
 	"testing"
 
-	test "github.com/libp2p/go-stream-muxer/test"
+	test "github.com/dms3-p2p/go-stream-muxer/test"
 )
 
 func TestMultiplexTransport(t *testing.T) {
